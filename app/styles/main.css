@@ -51,7 +51,7 @@ body {
   flex-direction: column;
 }
 
-#installer {
+/* #installer {
   position: absolute;
   opacity: 0;
   top: 0;
@@ -62,7 +62,7 @@ body {
 
 #installer.available {
   opacity: 1;
-}
+} */
 
 #installer .button {
   border: white 1px solid;
